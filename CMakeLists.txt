@@ -67,5 +67,6 @@ add_subdirectory(icons)
 add_subdirectory(man)
 add_subdirectory(css)
 add_subdirectory(rc)
+add_subdirectory(completions)
 
 include(CPack)
